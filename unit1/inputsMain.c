@@ -3,7 +3,7 @@
 
 char* myName = "Angel Campos";
 //char* = 
-
+//atoi(anStringHere);
 int main(int argc, char** argv){
     printf("Welcom to program %s\n", argv[0]);
     //sprintf(str, "%d", aNumber);
